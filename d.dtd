@@ -1,0 +1,4 @@
+<!ELEMENT flowershop (flower*)>
+<!ELEMENT flower (name,prices)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT prices (#PCDATA)>
